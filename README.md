@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Misfit007
+- 👀 I’m interested in helping automate business owners tasks and giving them more time in their day.
+- 🌱 I’m currently learning Web Development and Python 3.9.
+- 💞️ I’m looking to collaborate on Web Apps that make sales and project management easier for business owners.
+- 📫 How to reach me email me at dehetrejustin@gmail.com
