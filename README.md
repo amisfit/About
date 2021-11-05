@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justindehetre
-- 👀 I’m interested in learning about web development and machine learning models.
-- 🌱 I’m currently learning Web Development through online tutorials and bootcamps, and will begin contributing to open-source projects as soon as I can.
-- 💞️ I’m looking to collaborate on various web app projects built using node, react, tailwind, or other similar libraries/frameworks.
-- 📫 Email me at dehetrejustin@gmail.com
+- 👀 As a Third-Year Computer Science Student at CSU-Global I'm interested in learning cyber security, network engineering, cryptography, and script building.
+- 🌱 Aside from my primary studies in my acedemic corriculum, I am studying for the CompTIA SY0-601 Secutity+ and Network+, while attending other various trainings.
+- 💞️ I’m looking for a network secuity mentor with experience in government employment,pentesting, and other Red Team epereince.
+- 📫 Anyone looking to collabote or inquire, please email me at justin.dehetre@outlook.com.
