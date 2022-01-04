@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justindehetre
-- 👀 As a Third-Year Computer Science Student at CSU-Global I'm interested in learning cyber security, network engineering, cryptography, and script building.
+- 👀 As a Third-Year Cyber Security Student at CSU-Global I'm interested in learning network engineering, cryptography, and script building.
 - 🌱 Aside from my primary studies in my acedemic corriculum, I am studying for the CompTIA SY0-601 Secutity+ and Network+, while attending other various trainings.
 - 💞️ I’m looking for a network secuity mentor with experience in government employment,pentesting, and other Red Team epereince.
 - 📫 Anyone looking to collabote or inquire, please email me at justin.dehetre@outlook.com.
