@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @justindehetre
+- 👋 Hello, my name is @justindehetre
 - 👀 As a Third-Year Cyber Security Student at CSU-Global I'm interested in learning network engineering, cryptography, and script building.
-- 🌱 Aside from my primary studies in my acedemic corriculum, I am studying for the CompTIA SY0-601 Secutity+ and Network+, while attending other various trainings.
-- 💞️ I’m looking for a network secuity mentor with experience in government employment,pentesting, and other Red Team epereince.
+- 🌱 Aside from my primary studies in my acedemic corriculum, I enjoy ethical hacking and partaking in CTFs. I am also passionate about data privacy and ensuring indivudal freedoms are not infringed upon.
+- 🤝 I’m looking to find like minded individuals who want to share ideas and collaborate on various network security and penetration testing projects.
 - 📫 Anyone looking to collabote or inquire, please email me at justin.dehetre@outlook.com.
